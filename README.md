@@ -99,4 +99,8 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 # Related projects
 
-[Microsoft AI Github](https://github.com/microsoft/ai) Find other Best Practice projects, and Azure AI Designed patterns in our central repository. 
+[Microsoft AI Github](https://github.com/microsoft/ai) Find other Best Practice projects, and Azure AI Designed patterns in our central repository.
+
+---
+
+> **Created by Antono**
