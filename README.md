@@ -1,1 +1,26 @@
-Last updated: 2026-09-05 22:59:11 WIB
+# az-ml-realtime-score
+
+
+
+## 📋 Overview
+
+This repository contains **34 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-05 23:14:25 WIB*
